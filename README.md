@@ -8,7 +8,7 @@
 1.B. −6 ≤ 𝑥 ≤ 12 , −5 ≤ y ≤ 13，列出所有會收斂的格點 [x, y]。 <br>
 <img src="README_IMG/1-1b.PNG" width="5%"> <br>
 1.C. 以 B 所列條件代入牛頓法運算時，收斂條件為|𝑒𝑛 − 𝑒𝑛−1| ≤ 10e−6，norm 為 2-norm，當代入的格點會收斂時，列出迭代次數(iteration)。 <br>
-<img src="README_IMG/1-1c(1).PNG" width="10%"> <img src="README_IMG/1-1c(2).PNG" width="10%"> <img src="README_IMG/1-1c(3).PNG" width="10%"> <br>
+<img src="README_IMG/1-1c(1).PNG" width="10%"><img src="README_IMG/1-1c(2).PNG" width="10%"><img src="README_IMG/1-1c(3).PNG" width="10%"> <br>
 1.D. 以 B 所列條件代入牛頓法運算時，當發生 發散結果時，加入干擾(perturbation)/修正值到初始解再進行一次運算，看結果是否依然發散。 <br>
 2.A. 畫出f(x)和 g(x)的函數圖形，−6 ≤ 𝑥 ≤ 12 , −5 ≤ y ≤ 13。 <br>
 2.B. 畫出收斂/發散途徑。 <br>
