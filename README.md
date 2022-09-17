@@ -18,5 +18,15 @@
 2.A. 畫出f(x)和 g(x)的函數圖形，−6 ≤ 𝑥 ≤ 12 , −5 ≤ y ≤ 13。 <br>
 2.B. 畫出收斂/發散途徑。 <br>
 3.   標示出在該條件(−6 ≤ 𝑥 ≤ 12 , −5 ≤ y ≤ 13)中，哪些區域會發生收斂及發散。 <br>
-4.A. 試著解釋發生收斂結果的原因為何? 跟初始解的關聯。 <br>
+
+<img src="README_IMG/圖.PNG" width="50%">
+2-A:如圖，雙曲線為g(x)，圓形為f(x) <br>
+2-B:發散途徑為紅線 <br>
+3:圖中綠色點為收斂/紅點為發散(被紅線覆蓋) <br><br><br>
+4.A. 試著解釋發生收斂結果的原因為何? 跟初始解的關聯。 <br><br>
+4-A:根據1-B的結果可看出若座標相加(x+y)為奇數時才有可能發生發散，但原因不明；
+再來根據作圖後的結果可看出雙曲線的對稱線上所有點都是發散的，而在該例中對稱線也剛好經過圓心；
+最後根據4-B(下題)的結果可看出當eigenvalues的值相除結果為0或無限(除0)時，會發生發散。<br><br><br>
 4.B. 計算 Jacobiam matrix 的 eigenvalues(𝜆𝑚𝑎𝑥, 𝜆𝑚𝑖𝑛)，並計算C =|𝜆𝑚𝑎𝑥|/|𝜆𝑚𝑖𝑛|，觀察 C 的大小是否與收不收斂有一定的關聯。
+
+<img src="README_IMG/1-4b(1).PNG" width="10%"><img src="README_IMG/1-4b(2).PNG" width="10%"><img src="README_IMG/1-4b(3).PNG" width="10%"><img src="README_IMG/1-4b(4).PNG" width="10%"><img src="README_IMG/1-4b(5).PNG" width="10%"><img src="README_IMG/1-4b(6).PNG" width="10%"><img src="README_IMG/1-4b(7).PNG" width="10%"><img src="README_IMG/1-4b(8).PNG" width="10%">
